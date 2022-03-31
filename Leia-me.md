@@ -1,0 +1,2 @@
+# Resoluções próprias
+Meu interesse é de evoluir no estudo e aplicablidade da linguagem SQL no mercado, por isso, quando fui aprensentado ao ramo em determinadas disciplinas pela Universidade, meu interesse foi imediato. Desde então,me aprofundei no seu estudo, partindo das simples conceituações de modelos ER, modelagem e tipificação de  dados, conceitução de PK e FK, criação de Schemas,normalização e aplicação.
