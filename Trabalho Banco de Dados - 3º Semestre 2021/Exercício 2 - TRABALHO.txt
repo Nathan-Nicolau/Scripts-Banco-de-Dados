@@ -1,0 +1,13 @@
+Exercício 2)
+Dicionário de Dados:
+
+Jogador = {codigo(PK),nome,apelido,nivel}
+Jogo = {codigo(PK),nome,preço,descrição}
+Conquista = {codigo(PK),nome,codigo_Jogo(PK)(FK)}
+JogadorPremium = {(codigo(PK)(FK)_Jogador),desconto}
+
+Referência Cruzada:
+1 x N
+
+TabelaJogador_Joga = {codigo_Jogador(PK)(FK),codigo_Jogo(PK)(FK),hora_registradas,data_compra}
+TabelaDesbloqueia_do_Jogador = {codigo_Conquista(PK)(FK),codigo_Jogador(PK)(FK),data_desbloqueio}
